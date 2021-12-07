@@ -1,2 +1,2 @@
 # ccc-project
-simple-react-church-website
+simple-html-church-website
